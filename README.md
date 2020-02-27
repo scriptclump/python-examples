@@ -1,2 +1,2 @@
-# python-examples
-Collection of some small program using python
+# Python Examples
+Collection of some small program using Python
